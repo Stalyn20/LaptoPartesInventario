@@ -1,0 +1,106 @@
+[
+    {
+      "name": "Batería Laptop HP",
+      "brand": "HP",
+      "stock": 10,
+      "price": 50.99
+    },
+    {
+      "name": "Pantalla LCD Dell 15.6\"",
+      "brand": "Dell",
+      "stock": 5,
+      "price": 120.00
+    },
+    {
+      "name": "Teclado mecánico Logitech",
+      "brand": "Logitech",
+      "stock": 25,
+      "price": 75.50
+    },
+    {
+      "name": "Ratón inalámbrico Logitech",
+      "brand": "Logitech",
+      "stock": 30,
+      "price": 20.75
+    },
+    {
+      "name": "Disco duro SSD Samsung 1TB",
+      "brand": "Samsung",
+      "stock": 15,
+      "price": 95.99
+    },
+    {
+      "name": "Memoria RAM Kingston 8GB DDR4",
+      "brand": "Kingston",
+      "stock": 40,
+      "price": 35.99
+    },
+    {
+      "name": "Adaptador de corriente Lenovo 65W",
+      "brand": "Lenovo",
+      "stock": 10,
+      "price": 28.50
+    },
+    {
+      "name": "Pantalla LCD Asus 14\"",
+      "brand": "Asus",
+      "stock": 8,
+      "price": 80.00
+    },
+    {
+      "name": "Carcasa de laptop HP Pavilion 15",
+      "brand": "HP",
+      "stock": 12,
+      "price": 60.00
+    },
+    {
+      "name": "Placa base para laptop Acer",
+      "brand": "Acer",
+      "stock": 4,
+      "price": 130.00
+    },
+    {
+      "name": "Teclado retroiluminado para laptop Dell",
+      "brand": "Dell",
+      "stock": 18,
+      "price": 45.00
+    },
+    {
+      "name": "Cargador portátil Anker 20000mAh",
+      "brand": "Anker",
+      "stock": 20,
+      "price": 40.00
+    },
+    {
+      "name": "Base refrigerante para laptop Cooler Master",
+      "brand": "Cooler Master",
+      "stock": 10,
+      "price": 25.99
+    },
+    {
+      "name": "Mouse gamer Razer DeathAdder",
+      "brand": "Razer",
+      "stock": 15,
+      "price": 55.00
+    },
+    {
+      "name": "Disco duro externo WD 2TB",
+      "brand": "Western Digital",
+      "stock": 25,
+      "price": 89.99
+    },
+    {
+      "name": "Mochila para laptop Targus",
+      "brand": "Targus",
+      "stock": 50,
+      "price": 30.00
+    },
+    {
+      "name": "Estación de acoplamiento para laptop USB-C",
+      "brand": "Anker",
+      "stock": 18,
+      "price": 65.00
+    }
+  ]
+  
+  
